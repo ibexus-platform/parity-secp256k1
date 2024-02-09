@@ -29,7 +29,7 @@ default = []
 dev = ["clippy"]
 
 [dependencies]
-arrayvec = "0.7"
+arrayvec = "0.5.1"
 clippy = { version = "0.0.302", optional = true }
 rand = "0.7.2"
 
